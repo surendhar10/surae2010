@@ -1,0 +1,9 @@
+d=int(input())
+e=int(input())
+f=int(input())
+if(a>b)&(a>c):
+    print(d)
+    elif(e>d)&(e>f):
+        print(e)
+        else:
+            print(f)
