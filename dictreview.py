@@ -26,7 +26,7 @@ students={              #nested dictionary
                        "degree":"BCA"
                        },
             "student2":{
-                       "name":"karthiga",
+                       "name":"surendhar",
                        "degree":"BDS"
                        }         
          }
